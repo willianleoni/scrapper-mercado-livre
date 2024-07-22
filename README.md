@@ -9,7 +9,6 @@ Este projeto é um scraper para o Mercado Livre que extrai detalhes dos produtos
 - Organiza os dados em um DataFrame do pandas.
 - Calcula e adiciona uma coluna de desconto.
 - Salva os dados em um arquivo Excel com formatação.
-- Abre o arquivo Excel automaticamente após a execução.
 
 ## Dependências
 
